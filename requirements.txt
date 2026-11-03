@@ -1,0 +1,16 @@
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.17.1
+matplotlib==3.11.2
+nltk==3.10.3
+emoji==2.16.0
+contractions==0.1.73
+gensim==4.4.0
+tqdm==4.70.1
+ipython==9.17.1
+ipykernel==7.4.0
+transformers==5.20.1
+safetensors==0.8.0
+huggingface-hub==1.33.0
+scikit-learn==1.9.1
+jupyterlab>=4.3,<5
